@@ -31,7 +31,7 @@ Submit a single tarball named `[EntryNumber]-P1.tar.gz`, e.g., `2022CSZ228227-P1
 
 ## Problem 2: Become Super
 
-In your home folder you have three programs that you can execute. They are called `vuln1`, `vuln2`, and `vuln3`. You can run them, but you cannot modify them. Can you use them to gain root access?
+In your home folder you have three programs that you can execute. They are called `p4`, `p2`, and `p3`. You can run them, but you cannot modify them. Can you use them to gain root access?
 
 **Goal:** Obtain a privileged (root) shell and extract the flag stored inside the root user's home directory. Once done you can use the helper function to create the text.
 
