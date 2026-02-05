@@ -1,7 +1,7 @@
 # Networks & System Security
 
 **SIL765 & COL7165 - Assignment 2**
-**Deadline:** February 26, 2026
+**Deadline:** February 22, 2026
 
 ## Instructions
 
@@ -9,8 +9,8 @@
 - You will be given one VirtualBox image of an Ubuntu Linux system.
 - There are five problem sets.
 - For each problem, you need to create a file in the stated format only.
-- Helper function has been written to create the text files in the correct format. You can use it to create the tarball for submission.
-- The virtualbox 'appliance' is available at <https://owncloud.iitd.ac.in/nextcloud/index.php/s/ZiZZEpyK3dp7nC7>
+- A helper function has been written to create the text files in the correct format. You can use it to create the tarball for submission.
+- The VirtualBox 'appliance' is available at <https://owncloud.iitd.ac.in/nextcloud/index.php/s/ZiZZEpyK3dp7nC7>
 - Problems with the assignment should be raised as issues on the GitHub repository <https://github.com/boardslayer/CTF-SIL765>
 
 ## Problem 1: Gain Access
