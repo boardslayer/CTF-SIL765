@@ -33,7 +33,7 @@ chown -R ctfadmin:ctfadmin /opt/p5
 chmod 755 /opt/p5
 
 # 4) Install server
-install -m 755 -o root -g root /vagrant/p5/server.py /opt/p5/server.py
+install -m 755 -o root -g root /vagrant/provision/p5/server.py /opt/p5/server.py
 
 # 5) Create CSS file placeholder
 if [[ ! -f /opt/p5/user.css ]]; then
