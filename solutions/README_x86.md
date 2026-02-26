@@ -1,6 +1,6 @@
 # Solution Guide (x86_64 / Intel)
 
-This guide mirrors `solution/README.md` but assumes an x86_64 (Intel/AMD) VM.
+This guide mirrors `solutions/README.md` but assumes an x86_64 (Intel/AMD) VM.
 Use it when you replicate the VM on an amd64 host.
 
 ## Problem 1: Gain Access
